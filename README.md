@@ -1,2 +1,2 @@
 # DEPI-SQL-Tasks
-# Digital Egypt Pioneers Initiative
+# "Digital Egypt Pioneers Initiative"
